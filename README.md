@@ -78,7 +78,8 @@ testing...
 </html>
 ```
 Will compiled to:
-```
+
+```js
 define(function () {
     return ''
     + '<html>\n'
