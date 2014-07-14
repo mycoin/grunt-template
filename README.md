@@ -1,4 +1,3 @@
 grunt-quike-start
 =================
-
-quike start your project.
+Compiles HTML templates to JavaScript variables, jsonp and CMD.
