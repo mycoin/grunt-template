@@ -67,7 +67,7 @@ There are three formats you can use to run this task.
 ```
 
 #### for e.g.
-```html
+```text
 <html>
 <head>
     <title>grunt-template-js</title>
