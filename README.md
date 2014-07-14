@@ -65,8 +65,33 @@ There are three formats you can use to run this task.
     }
 }
 ```
+
+#### for e.g.
+```html
+<html>
+<head>
+    <title>grunt-template-js</title>
+</head>
+<body>
+testing...
+</body>
+</html>
+```
+Will compiled to:
+```
+define(function () {
+    return ''
+    + '<html>\n'
+    + '<head>\n'
+    + '    <title>grunt-template-js</title>\n'
+    + '</head>\n'
+    + '<body>\n'
+    + 'testing...\n'
+    + '</body>\n'
+    + '</html>';
+});
+
+```
 ---
 
 Task submitted by [mycoin](https://github.com/mycoin/)
-
-*This file was generated on Mon Jul 15 2013 20:45:46.*
