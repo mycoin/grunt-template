@@ -12,6 +12,7 @@
   },
   "keywords": [
     "html2js",
+    "gruntplugin",
     "htmlCMD"
   ], 
   "dependencies": {
